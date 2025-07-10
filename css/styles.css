@@ -56,7 +56,7 @@ ul {
 
 /* ===== Hero Section (Homepage) ===== */
 .hero {
-  min-height: 100vh;
+  min-height: 80vh;
   background: linear-gradient(to right, #0a192f, #112240);
   display: flex;
   justify-content: center;
